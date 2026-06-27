@@ -1,6 +1,6 @@
 cask "agentlens" do
-  version "0.1.6"
-  sha256 "8ffb11eeb83558e41d8e8ebbdfd7ab81a477b4f33cd9b30c3829b4641fbce4cf"
+  version "0.1.7"
+  sha256 "684d9299301621db4062dc398f28d082fa2887d73c0bf57d86bd05be9fe25fcb"
 
   url "https://github.com/hayteknoloji/homebrew-agentlens/releases/download/v#{version}/AgentLens-#{version}.zip"
   name "AgentLens"
